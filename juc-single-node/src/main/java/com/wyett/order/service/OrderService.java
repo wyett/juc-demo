@@ -2,6 +2,7 @@ package com.wyett.order.service;
 
 import com.wyett.order.remoteService.RemoteServiceCall;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.Map;
 
@@ -11,6 +12,7 @@ import java.util.Map;
  * @description: TODO
  */
 
+@Service
 public class OrderService {
     @Autowired
     RemoteServiceCall remoteServiceCall;
