@@ -2,6 +2,25 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/juc-single-node" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/automicInteger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blockingqueue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent-demo-performance-single-node" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrenthashmap" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/curren-tlimiting" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/current-limiting" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-aqs-explicitlock" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-atomic-unsafe" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-cas" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-collections" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-concurrency-tools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-concurrency-tools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-concurrt-safe" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-frame-action" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-thread-pool" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-thread-share-cooperation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reentrantlock" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/synchornized" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threadlocal" charset="UTF-8" />
   </component>
 </project>

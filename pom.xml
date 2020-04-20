@@ -9,7 +9,17 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>juc-single-node</module>
+        <module>juc-thread-share-cooperation</module>
+        <module>juc-cas</module>
+        <module>juc-aqs-explicitlock</module>
+        <module>juc-atomic-unsafe</module>
+        <module>juc-collections</module>
+        <module>juc-thread-pool</module>
+        <module>juc-concurrt-safe</module>
+        <module>juc-frame-action</module>
+        <module>current-limiting</module>
+        <module>concurrent-demo-performance-single-node</module>
+        <module>distributed-lock</module>
     </modules>
 
     <properties>
