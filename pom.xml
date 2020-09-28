@@ -20,6 +20,9 @@
         <module>current-limiting</module>
         <module>concurrent-demo-performance-single-node</module>
         <module>distributed-lock</module>
+        <module>juc-jmm-volatile</module>
+        <module>juc-thread-pool</module>
+        <module>juc-2-practical-tools</module>
     </modules>
 
     <properties>

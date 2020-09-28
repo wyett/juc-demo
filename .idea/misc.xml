@@ -7,19 +7,6 @@
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/automicInteger/pom.xml" />
-        <option value="$PROJECT_DIR$/blockingqueue/pom.xml" />
-        <option value="$PROJECT_DIR$/cas/pom.xml" />
-        <option value="$PROJECT_DIR$/concurrenthashmap/pom.xml" />
-        <option value="$PROJECT_DIR$/curren-tlimiting/pom.xml" />
-        <option value="$PROJECT_DIR$/juc-concurrency-tools/pom.xml" />
-        <option value="$PROJECT_DIR$/reentrantlock/pom.xml" />
-        <option value="$PROJECT_DIR$/synchornized/pom.xml" />
-        <option value="$PROJECT_DIR$/threadlocal/pom.xml" />
-      </set>
-    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
