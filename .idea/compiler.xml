@@ -10,14 +10,14 @@
         <module name="juc-aqs-explicitlock" />
         <module name="juc-2-practical-tools" />
         <module name="juc-frame-action" />
-        <module name="juc-collections" />
         <module name="juc-cas" />
         <module name="juc-thread-share-cooperation" />
-        <module name="juc-concurrt-safe" />
+        <module name="juc-collections" />
         <module name="juc-thread-pool" />
         <module name="curren-tlimiting" />
-        <module name="juc-atomic-unsafe" />
         <module name="distributed-lock" />
+        <module name="juc-atomic-unsafe" />
+        <module name="juc-concurrt-safe" />
         <module name="juc-jmm-volatile" />
       </profile>
     </annotationProcessing>
