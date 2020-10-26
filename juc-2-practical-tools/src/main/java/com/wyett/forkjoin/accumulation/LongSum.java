@@ -40,8 +40,6 @@ public class LongSum extends RecursiveTask<Long> {
             Long sthalfVal = sthalf.join();
             Long enhalfVal = enhalf.join();
             return sthalfVal + enhalfVal;
-
         }
-
     }
 }
